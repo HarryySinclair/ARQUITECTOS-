@@ -1,0 +1,47 @@
+footer {
+background: #333a41 !important;
+color: white;
+font-family: verdana;
+}
+
+a{
+    color: black;
+}
+
+p{
+    font-size: 11px !important;
+
+}
+
+h6{
+    font-size: 11px;
+}
+
+body{
+    background: #333a41 !important;
+}
+
+i{
+    color: white;   
+}
+
+a{
+    color: white;
+}
+
+nav{
+	font-family: verdana;
+}
+
+
+.contenedor{
+    width: 100%;
+}
+
+
+
+.mapa {
+   width: 900px;
+   height: 350px;
+   margin: auto;
+}

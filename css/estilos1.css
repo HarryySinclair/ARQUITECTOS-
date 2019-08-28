@@ -1,0 +1,88 @@
+footer {
+    background: #333a41 !important;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 80px;
+    font-family: verdana;
+
+    }
+    
+    a{
+        color: white;
+    }
+
+
+    
+       
+    }
+    
+    .img-fluid{
+         width: 100%; 
+         height: auto;
+         padding: 0;
+         padding-bottom: 0;
+    }
+    .col-md-12{
+        padding: 0;
+        margin: 0, 
+    }
+
+   
+    body{
+        background: url(../imagenes/concrete.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        width: 100%;
+        height: 100%;
+       }
+
+
+
+       .col-sm-12{
+           background: #333a41;
+           color: white;
+           font-size: 25px;
+           padding: 0%;
+           margin: 0%;
+
+           
+       }
+
+       
+       p{
+           font-size: 11px !important;
+           font-family: verdana;
+       }
+
+       h6{
+        font-size: 11px;
+        font-family: verdana;
+    }
+    
+   
+    
+    i{
+        color: white;
+        font-family: verdana;
+    }
+    
+    a{
+        color: white;
+        font-family: verdana;
+    }
+
+
+    li{
+        padding: 2%;
+        color: black;
+    }
+
+    nav{
+      font-family: verdana;
+    }
+
+
+
+
+ 
